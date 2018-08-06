@@ -6,6 +6,6 @@ The MNIST database is available at http://yann.lecun.com/exdb/mnist/
 
 The MNIST database is a dataset of handwritten digits. It has 60,000 training samples, and 10,000 test samples. Each image is represented by 28x28 pixels, each containing a value 0 - 255 with its grayscale value.
 
-Here Traditional_methods.ipynb is the file in which I have applied Logistic regression, random forest,etc classifiers to the MNIST dataset.
-MNIST.ipynb is the file in thich I have applied Convolutional Neural Network on MNIST dataset
+**Here Traditional_methods.ipynb is the file in which I have applied Logistic regression, random forest,etc classifiers to the MNIST dataset.**<br/>
+**MNIST.ipynb is the file in thich I have applied Convolutional Neural Network on MNIST dataset**
 
